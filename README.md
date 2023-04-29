@@ -1,3 +1,2 @@
 # djf
-<iframe title="2019" aria-label="Map" id="datawrapper-chart-PYga3" src="https://datawrapper.dwcdn.net/PYga3/4/" scrolling="no" frameborder="0" style="border: none;" width="600" height="666" data-external="1"></iframe>
-
+<div><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/PYga3/embed.js?v=4" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/PYga3/full.png" alt="" /></noscript></div>
