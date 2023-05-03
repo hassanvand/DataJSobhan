@@ -47,6 +47,8 @@ For my maps, I needed an Oakland map based on the police beats. DataWrapper even
 
 ![download](https://user-images.githubusercontent.com/78078218/235873765-46bd524f-06a8-4ca1-ad88-c53845b31134.jpeg)
 
+## Visualizing
+
 Upload your map from your computer then click Proceed. Next, under *Add your data* from *Upload* upload you data for the crime that you are going to create a map from.
 
 Your table cannot have red cells, if it does you should fix it. 
