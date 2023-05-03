@@ -77,7 +77,11 @@ On the interactive map you can toggle between diffrent crimes to see their numbe
 
 ## My Assumption 
 
-Sideshows has gotten out of control in the city. They are dangerous for drivers, passnegers, bysatnders and others. They casue harm to quality of life in the city with noise, disturbance and traffic. They are distructive as they destroy streets, pavements and markings that need to be fixed with the city money that can go to other issues. Violence is another serious issue with firearms, gubshots and shootings in the neighbourhoods that incures the city millions of dollors each year. Based on my maps there might be correlation betweet areas with high numbers of sideshows and crimes. West Oakland, Downtown, Fruuitvale and East Oakland are the areas with hight number of sideshows that are also suffering from high numbers of crimes. If we compare our maps a 2018 with [Oakland Equity Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=1ff09a9d0ccb49c29c9df8c8c1b12bf3) which dipicts *Communities of Concern* in the city we see there is an overlap among these areas. 
+Sideshows has gotten out of control in the city. They are dangerous for drivers, passnegers, bysatnders and others. They casue harm to quality of life in the city with noise, disturbance and traffic. They are distructive as they destroy streets, pavements and markings that need to be fixed with the city money that can go to other issues. Violence is another serious issue with firearms, gubshots and shootings in the neighbourhoods that incures the city millions of dollors each year. Based on my maps there might be correlation betweet areas with high numbers of sideshows and crimes. West Oakland, Downtown, Fruuitvale and East Oakland are the areas with hight number of sideshows that are also suffering from high numbers of crimes. If we compare our maps a 2018 with [Oakland Equity Map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=1ff09a9d0ccb49c29c9df8c8c1b12bf3) which dipicts *Communities of Concern* in the city we see there is an overlap among these areas that are underserved. it is worth noting that that 66 percent of sideshow participants come from out the city.  
+
+![concern map](https://user-images.githubusercontent.com/78078218/235893880-1b46f348-4077-48bf-ad9c-a8a4565cecba.JPG)
+
+
 
 ## Sources: 
 District 5 Councilmember [Noel Gallo](https://www.oaklandca.gov/officials/noel-gallo) who has been pursuing to pass a Sideshow Spectator and Promoter Ordinance to curb sideshows in Oakland:
