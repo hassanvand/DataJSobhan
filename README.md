@@ -42,6 +42,18 @@ Choose your map. If the map that you need is not provided by Datawrapper, you sh
 
 You can edit any .json/.geojson file to have the map you need by using [MapShaper](https://mapshaper.org/). For example if you cannot find a map for Austria neighbors, you can easily find a .json/.geojson Europe map and edit it to have a .json/.geojson map for Austria and its neighbors. [More help](https://academy.datawrapper.de/article/145-how-to-upload-your-own-map).
 
-For my maps, I needed an Oakland map based on the police beats. DataWrapper even did not have a general map of Oakland, so after a long search I found a plice beats map of Oakland at the [UC Berkeley GEODATA](https://geodata.lib.berkeley.edu/catalog/ark28722-s71s46). YAY! GO BEARS
+For my maps, I needed an Oakland map based on the police beats. DataWrapper even did not have a general map of Oakland, so after a long search I found a police beats map of Oakland at the [UC Berkeley GEODATA](https://geodata.lib.berkeley.edu/catalog/ark28722-s71s46). YAY! GO BEARS!
 
+![download](https://user-images.githubusercontent.com/78078218/235873765-46bd524f-06a8-4ca1-ad88-c53845b31134.jpeg)
 
+Upload your map from your computer then click Proceed. Next, under *Add your data* from *Upload* upload you data for the crime that you are going to create a map from.
+
+Your table cannot have red cells, if it does you should fix it. 
+
+![red](https://user-images.githubusercontent.com/78078218/235876094-331bc14b-bdc2-430d-a06d-b03e6e955b9c.JPG)
+
+The first solution, that most times works, is to select the right *Matching key* under *Match*. Here, from *Matching key* we need to select a key that corresponds with our beats which is Beat (01x, 02x...).
+
+![no red](https://user-images.githubusercontent.com/78078218/235877710-f21df77f-dbd6-4770-a61a-7b619b0da5dc.JPG)
+
+When we had no red cell we are ready to *Visualize*. Here we can work on visual features of our map and add annotations to our map for more context. Finally, we go to the last stage and publish our map. We should do the same for the other maps to have all of our five maps. We use *Visualization only* to create our tabs. Tabs are link to other maps. [Find more here.](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
