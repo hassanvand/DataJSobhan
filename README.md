@@ -26,7 +26,7 @@ Now we have our data in years.
 
 ![02 timestamp to year](https://user-images.githubusercontent.com/78078218/235860409-3279cb3c-9219-42c3-8ad3-93df5f32e67b.png)
 
-Now To have a map for each crime category that consists of the number of our selected crimes in each police beat throughout 2019 to 2022 we need a pivot table from the Insert tab. In the pivot table we add PoliceBeat under Rows our data in table that has two columns, beats and numbers of crimes in each beat. Then we add CrimeType under Values. Now we add CrimeType and DateTime under filter. Under Filters, we filter our data based CrimeType we need and select 2019, 2020, 2021 and 2022 as our DateTime filter.
+Now, to have a map for each crime category that consists of the number of our selected crimes in each police beat throughout 2019 to 2022 we need a pivot table from the Insert tab. In the pivot table we add PoliceBeat under Rows our data in table that has two columns, beats and numbers of crimes in each beat. Then we add CrimeType under Values. Now we add CrimeType and DateTime under filter. Under Filters, we filter our data based CrimeType we need and select 2019, 2020, 2021 and 2022 as our DateTime filter.
 
 ![1m](https://user-images.githubusercontent.com/78078218/235867731-2f694291-02f9-4cd9-8ef2-44fddef9ed1e.JPG)
 
