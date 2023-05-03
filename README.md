@@ -63,7 +63,7 @@ Below is my first 5-tab map which shows the number of sideshows in each Oaklamd 
 
 ![sideshow summary](https://user-images.githubusercontent.com/78078218/235881080-d3776862-3e7d-4e6c-87c1-8be0efe3c3e8.JPG)
 
-[Click here to see the sideshow summary interactive map](https://www.datawrapper.de/_/PYga3/) 
+[Click here to see the sideshow summary interactive map](https://www.datawrapper.de/_/PYga3/)
 
 On the interactive map you can toggle between diffrent years to see the number of sideshows in different beats and years.
 
