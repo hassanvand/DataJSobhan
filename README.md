@@ -31,3 +31,16 @@ Now To have a map for each crime category that consists of the number of our sel
 
 
 Now we should copy the values for the selected crime to have a dataset to visualize it in DataWrapper. For other crimes, we can duplicate our currrent file and change the CrimeType under Filters to have the other datasets.
+
+After creating our datasets we go to [DataWrapper](https://www.datawrapper.de/) to created out visualized maps.
+
+From Menu go to Archive and create a folder for the first map and another one for the second map, this way it would be more organized.
+
+From New select Map, then select Choropleth map. 
+
+Choose your map. If the map that you need is not provided by Datawrapper, you should find or create your own map in .json or .geojson format. Datawrapper does not have Oakland maps, so I started searching for Oakland .json/.geojson map based police beats as my datasets were based on Oakland police beats. You may have to spend more time to find it becasue your map might be one websites which are not indexed on search engines.
+
+You can edit any .json/.geojson file to have the map you need by using [MapShaper](https://mapshaper.org/). For example if you cannot find a map for Austria neighbors, you can easily find a .json/.geojson Europe map and edit it to have a .json/.geojson map for Austria and its neighbors. [More help](https://academy.datawrapper.de/article/145-how-to-upload-your-own-map).
+
+
+
