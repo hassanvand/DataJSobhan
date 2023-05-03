@@ -75,6 +75,10 @@ My second map is again a 5-tab map which shows the number of crimes throughout 2
 
 On the interactive map you can toggle between diffrent crimes to see their numbers in different beats throughout 2019 to 2022.
 
+## My Assumption 
+
+Sideshows has gotten out of control in the city. They are dangerous for drivers, passnegers, bysatnders and others. They casue harm to quality of life in the city with noise, disturbance and traffic. They are distructive as they destroy streets, pavements and markings that need to be fixed with the city money that can go to other issues. Violence is another serious issue with firearms, gubshots and shootings in the neighbourhoods that incure the city millions of dollors each year. 
+Based on my maps there might be correlation betweet areas with high numbers of sideshows and crime
 
 ## Sources: 
 District 5 Councilmember [Noel Gallo](https://www.oaklandca.gov/officials/noel-gallo) who has been pursuing to pass a Sideshow Spectator and Promoter Ordinance to curb sideshows in Oakland:
