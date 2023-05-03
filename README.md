@@ -42,5 +42,6 @@ Choose your map. If the map that you need is not provided by Datawrapper, you sh
 
 You can edit any .json/.geojson file to have the map you need by using [MapShaper](https://mapshaper.org/). For example if you cannot find a map for Austria neighbors, you can easily find a .json/.geojson Europe map and edit it to have a .json/.geojson map for Austria and its neighbors. [More help](https://academy.datawrapper.de/article/145-how-to-upload-your-own-map).
 
+For my maps, I needed an Oakland map based on the police beats. DataWrapper even did not have a general map of Oakland, so after a long search I found a plice beats map of Oakland at the [UC Berkeley GEODATA](https://geodata.lib.berkeley.edu/catalog/ark28722-s71s46). YAY! GO BEARS
 
 
