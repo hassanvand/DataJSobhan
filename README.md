@@ -57,3 +57,20 @@ The first solution, that most times works, is to select the right *Matching key*
 ![no red](https://user-images.githubusercontent.com/78078218/235877710-f21df77f-dbd6-4770-a61a-7b619b0da5dc.JPG)
 
 When we had no red cell we are ready to *Visualize*. Here we can work on visual features of our map and add annotations to our map for more context. Finally, we go to the last stage and publish our map. We should do the same for the other maps to have all of our five maps. We use *Visualization only* to create our tabs. Tabs are link to other maps. [Find more here.](https://academy.datawrapper.de/article/305-how-to-add-tabs-and-drop-downs)
+
+Below is my first 5-tab map which shows the number of sideshows in each Oaklamd police beats based on years.
+
+![sideshow summary](https://user-images.githubusercontent.com/78078218/235881080-d3776862-3e7d-4e6c-87c1-8be0efe3c3e8.JPG)
+
+[Click here to see the sideshow summary interactive map](https://www.datawrapper.de/_/PYga3/) 
+
+On the interactive map you can toggle between diffrent years to see the number of sideshows in different beats and years.
+
+My second map is again a 5-tab map which shows the number of crimes throughout 2019 to 2022 that could be affected by sideshows in a neighborhood.
+
+![crime map](https://user-images.githubusercontent.com/78078218/235882511-c1ea865d-a200-40b8-86fb-b3f1634baab2.JPG)
+
+[Click here to see the crime watch interactive map](https://www.datawrapper.de/_/FA3lT/)
+
+On the interactive map you can toggle between diffrent crimes to see their numbers in different beats throughout 2019 to 2022.
+
