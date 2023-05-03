@@ -1,17 +1,18 @@
 # Oakland Sideshows & Crimes
 
+## My datasets
 For this project I used two datasets, the Oakland Police Deparment (OPD) [sideshow summary](https://nextrequestdev.s3.amazonaws.com/oaklandca/22-7316/99EAA1E3C350C4FB.xlsx?response-content-disposition=attachment%3B%20filename%3D%22Sideshow%20Summary%202019%20-%2030Nov2022_Disp%20Calls.xlsx%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAW2Y7QEIAQAROH3WX%2F20230503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230503T071334Z&X-Amz-Expires=1000&X-Amz-SignedHeaders=host&X-Amz-Signature=7e78a2deefc2a78e69e9b86dab0965433405340cf5143979ef5ed8c5b3e7b8f9) from 2019 to 2022 provided by the OPD and the [Oakland Crime Watch Data](https://data.oaklandca.gov/) provided by the City of Oakland’s Open Data [Platform](https://data.oaklandca.gov/) from 2019 to 2022.
 
-I was going to see how sideshows could be related to crimes in different parts of Oakland. The data in both datasets were categorized by “police beat.” A police beat is the area that a police officer/unit is assigned to patrol.
+I was going to see how sideshows could be related to crimes in different parts of Oakland as the city has been [grappling with the issue for years](https://oaklandnorth.net/2023/04/18/oakland-sideshows-council-crackdown/). The data in both datasets were categorized by “police beat.” A police beat is the area that a police officer/unit is assigned to patrol.
 
 I have two 5-tab maps to examine the issue.
 
 The first one shows the number of sideshows in each Oakland police beat from 2019 to 2022 and a map for the number of all sideshows throughout 2019 to 2022.
 
-The second map shows the number of crimes that could be considered more relevant to sideshows. There are 51 crime types in the original dataset, but I defined four crimes based on those 51 crime types that you can see in the maps.
+The second map shows the number of crimes that could be considered more relevant to sideshows. There are 51 crime types in [the original dataset](https://docs.google.com/spreadsheets/d/1jQXQ_xcd5Hln31OIjg_pB3p0KmEcI0AfJx7fnDxb_Ko/edit?usp=sharing), but I defined four crimes based on those 51 crime types that you can see in the maps.
 
 
-My sideshow summary dataset has data in years, but the crime watch dataset has the data in timestamps that need to be converted to years. 
+My [sideshow summary dataset](https://docs.google.com/spreadsheets/d/1s1PkapY1sFnBbris3Y1k7aVVWkAh70AZ/edit?usp=sharing&ouid=109047557314096833567&rtpof=true&sd=true) has data in years, but the crime watch dataset has the data in timestamps that need to be converted to years. 
 
 ![01 timestamp to year](https://user-images.githubusercontent.com/78078218/235860192-3d8dc86a-35ad-4d1b-bb84-c173d41e6101.png)
 
@@ -73,4 +74,14 @@ My second map is again a 5-tab map which shows the number of crimes throughout 2
 [Click here to see the crime watch interactive map](https://www.datawrapper.de/_/FA3lT/)
 
 On the interactive map you can toggle between diffrent crimes to see their numbers in different beats throughout 2019 to 2022.
+
+
+## Sources: 
+District 5 Councilmember [Noel Gallo](https://www.oaklandca.gov/officials/noel-gallo) who has been pursuing to pass a Sideshow Spectator and Promoter Ordinance to curb sideshows in Oakland:
+- Phone: 510-238-7005
+- Email Address: [Ngallo@oaklandca.gov](Ngallo@oaklandca.gov)
+
+Oakland Deputy Police Chief, [Darren Allison](https://www.oaklandca.gov/staff/darren-allison) as an official form the Oakland Police Department, the OPD have been supporting Gallo’s ordinance as they say police does not have tools to fight sideshows that are diverting policing resources
+- Email Address: [dallison@oaklandca.gov](dallison@oaklandca.gov) 
+
 
